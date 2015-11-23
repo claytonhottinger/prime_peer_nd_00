@@ -1,0 +1,19 @@
+{
+  "name": "whatever",
+  "version": "1.0.0",
+  "description": "Welcome to your Node Module Peer challenge!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytonhottinger/prime_peer_nd_00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytonhottinger/prime_peer_nd_00/issues"
+  },
+  "homepage": "https://github.com/claytonhottinger/prime_peer_nd_00#readme"
+}
